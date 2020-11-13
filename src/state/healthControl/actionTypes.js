@@ -1,0 +1,2 @@
+export const INIT_HEALTH_APP = 'INIT_HEALTH_APP';
+export const UPDATE_HEALTH_DATA = 'UPDATE_HEALTH_DATA';
